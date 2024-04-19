@@ -1,6 +1,15 @@
 SNP_processing
 ==============================
 
+
+Notebooks for analysis are contained in the notebook folder.  Open folder and click on notebook
+
+test data is in the data/test folder
+
+
+Followed cookiecutter data science project template
+
+
 basic prep for snp analysis
 
 Project Organization
